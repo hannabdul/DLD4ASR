@@ -11,5 +11,5 @@ Large Speech Models (LSMs) are effective in transcribing audio data while offeri
 DLD is an end-to-end framework for Automatic Speech Recongition (ASR) that performs knowledge distillation from the teacher network to the dynamic / scalable child network, thus, minimizing the difference between models embeddings and optimizing the performance on all computational budgets.
 
 ## Architecture
-<img width="768" alt="image" src="images/framework.png">
+<img width="768" alt="image" src="images/framework.jpg">
 
