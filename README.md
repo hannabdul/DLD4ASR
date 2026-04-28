@@ -1,6 +1,6 @@
 # Distillation-based Layer Dropping (DLD): Effective End-to-end Framework for Dynamic Speech Networks
 
-Paper Link: [arxiv](https://arxiv.org/abs/2601.16117) &nbsp; [ICASSP]()
+Paper Link: [arxiv](https://arxiv.org/abs/2601.16117) &nbsp; [ICASSP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462850)
 
 ## Code
 Coming soon.!!
